@@ -8,7 +8,7 @@
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/31c1d972-8949-4711-a2d7-62b2613672c1">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/318876697095045131/939232140296601601">
 </div>
   
     
