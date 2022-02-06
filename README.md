@@ -1,4 +1,4 @@
-## Oiii eu sou a Ana Kelly Britto, criadora de conteúdo de programação e tecnologia! 😁
+## Oiii eu sou a Ana Kelly Britto, Desenvolvedora Web! 😁
 <div align="center">
   <a href="https://www.linkedin.com/in/anakellybritto/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anapmb9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
