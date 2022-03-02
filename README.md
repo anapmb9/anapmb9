@@ -1,4 +1,4 @@
-## Oiii eu sou a Ana Kelly Britto, Bem Vindo ao meu Github! 😁
+## Oiii eu sou a Ana Kelly Britto, Bem Vinda(o) ao meu Github! 😁
 
 <div align="center">
   <a href="https://github.com/anapmb9">
